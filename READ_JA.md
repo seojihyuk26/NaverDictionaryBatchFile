@@ -1,5 +1,5 @@
 # ネイバー辞書ショットカット
-[English Explanation](README.md), [한국어 설명](README_KR.md)  
+[:gb:English Explanation](README.md), [:kr:한국어 설명](README_KR.md)  
 ネイバー辞書ショットカットバッチファイル  
 現在 **英-韓**, **仏-韓**, **日-韓** 辞書ショットカットが存在  
 :warning: このショットカットは**ウィンドウズ**環境でのみ作動します。

@@ -35,7 +35,7 @@ enter
 | french | fr |
 | japanese | jp |
 
-[(Language codes based on ISO 639-1)](https://en.wikipedia.org/wiki/ISO_639-1) + search query  
+([Language codes based on ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1)) + search query  
 and enter  
 
 for example, if you want to searh a word **"main"** on **ENG-KOR** Naver Dictionary.  

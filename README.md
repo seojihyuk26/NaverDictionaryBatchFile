@@ -33,7 +33,7 @@ enter
 |---|---|
 | english | en |
 | french | fr |
-| japenese | jp |
+| japanese | jp |
 
 (Language codes based on ISO 639-1) + search query  
 and enter  

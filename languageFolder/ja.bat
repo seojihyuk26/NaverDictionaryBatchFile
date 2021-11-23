@@ -5,10 +5,10 @@ set str=%*
 )
 :input
 if not "%str%"=="" (
-firefox "https://ja.dict.naver.com/#/search?query=%str%"
+start "" "https://ja.dict.naver.com/#/search?query=%str%"
 endlocal
 exit
 ) else (
-set /p str=ì¼ë³¸ì–´ ì‚¬ì „ì—ì„œ ê²€ìƒ‰í•  ë‹¨ì–´:
+set /p str=ÀÏº»¾î »çÀü¿¡¼­ °Ë»öÇÒ ´Ü¾î:
 goto input
 )

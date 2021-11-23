@@ -1,5 +1,5 @@
 # 네이버 사전 윈도우 단축키
-[English Explanation](README.md) , [日本語の説明](READ_JA.md)  
+[:gb:English Explanation](README.md) , [:jp:日本語の説明](READ_JA.md)  
 네이버 사전 단축키 배치 파일  
 현재 **영-한**, **프-한**, **일-한** 사전 단축키가 존재  
 :warning: 이 단축키는 **윈도우** 환경에서만 동작합니다.

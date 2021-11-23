@@ -1,5 +1,5 @@
 # NaverDictionary Shortcut For Windows
-[한국어 설명](README_KR.md), [日本語の説明](READ_JA.md)  
+[:kr:한국어 설명](README_KR.md), [:jp:日本語の説明](READ_JA.md)  
 BatchFile for NaverDictionary shortcut
 Currently we have **ENG-KOR**, **FRA-KOR**, **JPN-KOR** Dictionary shortcut  
 (Language codes based on ISO 639-3)

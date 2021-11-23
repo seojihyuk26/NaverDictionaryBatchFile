@@ -34,8 +34,7 @@ enter
 | 프랑스어 | fr |
 | 일본어 | ja |
 
-([ISO 639-1 에 기초한 언어 코드](https://en.wikipedia.org/wiki/ISO_639-1)) + 검색하고 싶은 단어 혹은 문장  
-+ enter 키  
+([ISO 639-1 에 기초한 언어 코드](https://en.wikipedia.org/wiki/ISO_639-1)) + 검색하고 싶은 단어 혹은 문장 + enter 키  
 
 예를 들어,**"main"** 이라는 단어를 **영-한** 네이버 사전에서 찾고 싶을 때는  
 window 키 + pw + enter 

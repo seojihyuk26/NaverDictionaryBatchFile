@@ -8,8 +8,8 @@ Currently we have **ENG-KOR**, **FRC-KOR**, **JPN-KOR** Dictionary shortcut
 ## Set Up
 ### Set PATH
 Set languageFolder folder address on PATH  
-(one who don't know how to set PATH on windows see this url)  
-[how to set PATH](https://www.opentechguides.com/how-to/article/windows-10/113/windows-10-set-path.html)
+(one who don't know how to set PATH on windows see this url 
+[how to set PATH](https://www.opentechguides.com/how-to/article/windows-10/113/windows-10-set-path.html) )  
 
 ### How to Use
 #### 1. open the powershell or cmd

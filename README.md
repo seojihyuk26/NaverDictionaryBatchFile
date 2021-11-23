@@ -28,7 +28,16 @@ window key + r + type cmd
 enter
 
 #### 2. choose language and search word
+
+| Language | ISO 639-1 code |
+|---|---|
+| english | en |
+| french | fr |
+| japenese | jp |
+
+(Language codes based on ISO 639-1) + search query  
+and enter  
+
 for example, if you want to searh a word **"main"** on **ENG-KOR** Naver Dictionary.  
-en main  
-enter  
+**en** main + enter  
 then you will see [word "main" on ENG-KOR Naver Dictionary](https://en.dict.naver.com/#/search?range=all&query=main)

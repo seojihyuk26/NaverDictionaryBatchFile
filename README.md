@@ -9,6 +9,11 @@ Currently we have **ENG-KOR**, **FRA-KOR**, **JPN-KOR** Dictionary shortcut
 ![videoExplanationOfNaverDicShortcut](https://user-images.githubusercontent.com/30021393/142984192-5542939a-b2dc-4e89-a804-cc16461f5714.gif)
 
 ## Set Up
+### Download and Unzip
+![videoDownloadExplanationOfNaverDicShortcut](https://user-images.githubusercontent.com/30021393/142986515-109949d7-1027-4e97-bf20-d3aa7f4498ce.gif)
+Download Zip file like above video,
+Unzip it.
+
 ### Set PATH
 Set languageFolder folder address on PATH  
 (one who don't know how to set PATH on windows see this url 

@@ -1,6 +1,6 @@
 # NaverDictionaryBatchFile
 BatchFile for NaverDictionary shortcut
-Currently we have **ENG-KOR**, **FRC-KOR**, **JPN-KOR** Dictionary shortcut  
+Currently we have **ENG-KOR**, **FRA-KOR**, **JPN-KOR** Dictionary shortcut  
 (Language codes based on ISO 639-3)
 
 :warning: this works on only **Windows** OS
@@ -33,7 +33,7 @@ enter
 |---|---|
 | english | en |
 | french | fr |
-| japanese | jp |
+| japanese | ja |
 
 ([Language codes based on ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1)) + search query  
 and enter  

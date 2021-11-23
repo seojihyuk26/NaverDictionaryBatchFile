@@ -9,6 +9,6 @@ firefox "https://ja.dict.naver.com/#/search?query=%str%"
 endlocal
 exit
 ) else (
-set /p str=ÀÏº»¾î »çÀü¿¡¼­ °Ë»öÇÒ ´Ü¾î:
+set /p str=ì¼ë³¸ì–´ ì‚¬ì „ì—ì„œ ê²€ìƒ‰í•  ë‹¨ì–´:
 goto input
 )

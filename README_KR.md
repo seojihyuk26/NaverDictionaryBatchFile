@@ -7,6 +7,11 @@
 ![videoExplanationOfNaverDicShortcut](https://user-images.githubusercontent.com/30021393/142984192-5542939a-b2dc-4e89-a804-cc16461f5714.gif)
 
 ## 기초 설정
+### 다운로드 후 압축 해동
+![videoDownloadExplanationOfNaverDicShortcut](https://user-images.githubusercontent.com/30021393/142986515-109949d7-1027-4e97-bf20-d3aa7f4498ce.gif)
+위의 동영상처럼 zip 파일 다운로드 후,
+해동한다.
+
 ### PATH 환경변수 설정하기
 다운로드 받은 languageFolder 폴더 위치를 윈도우 PATH 환경설정에 등록한다.  
 (윈도우 PATH 환경설정에 등록 방법을 모르는 사람은 다음 링크를 참조

@@ -28,7 +28,7 @@ window key + r + type cmd
 enter
 
 #### 2. choose language and search word
-for example, if you want to searh a word **"main"** on **ENG-KOR** Naver Dictionary.
+for example, if you want to searh a word **"main"** on **ENG-KOR** Naver Dictionary.  
 en main  
 enter  
 then you will see [word "main" on ENG-KOR Naver Dictionary](https://en.dict.naver.com/#/search?range=all&query=main)

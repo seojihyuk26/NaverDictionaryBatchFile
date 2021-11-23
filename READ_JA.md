@@ -14,7 +14,7 @@
 ### PATH環境変数設定
 ダウンロードしたlanguageFolderフォルダ位置をウィンドウズPATH環境設定に登録する。  
 (ウィンドウズPATH環境設定に登録の仕方を知らない方は次のリンクを参照。
-[ウィンドウズPATH環境設定登録](https://rootblog.tistory.com/206) )  
+[ウィンドウズPATH環境設定登録](https://atmarkit.itmedia.co.jp/ait/articles/1805/11/news035.html) )  
 
 ### 使い方
 #### 1. powershellかcmdを開く
@@ -34,13 +34,13 @@ enter
 
 #### 2. 言語を選び単語又は文章を検索
 
-| 言語 | ISO 639-1 코드 |
+| 言語 | ISO 639-1 コード |
 |---|---|
 | 英語 | en |
 | フランス語 | fr |
 | 日本語 | ja |
 
-([ISO 639-1に沿った言語コード](https://ko.wikipedia.org/wiki/ISO_639-1_%EC%BD%94%EB%93%9C_%EB%AA%A9%EB%A1%9D)) + 検索したい文章 + enter キー  
+([ISO 639-1に沿った言語コード](https://ja.wikipedia.org/wiki/ISO_639-1%E3%82%B3%E3%83%BC%E3%83%89%E4%B8%80%E8%A6%A7)) + 検索したい文章 + enter キー  
 
 例えば、**"main"** という単語を**英-韓**ネイバー辞書で引きたい時には  
 window キー + pw + enter　キー　　

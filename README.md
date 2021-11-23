@@ -15,7 +15,7 @@ Download Zip file like above video,
 Unzip it.
 
 ### Set PATH
-Set languageFolder folder address on PATH  
+Set languageFolder directory on PATH  
 (one who don't know how to set PATH on windows see this url 
 [how to set PATH](https://www.opentechguides.com/how-to/article/windows-10/113/windows-10-set-path.html) )  
 

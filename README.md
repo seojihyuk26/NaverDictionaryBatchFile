@@ -6,6 +6,8 @@ Currently we have **ENG-KOR**, **FRA-KOR**, **JPN-KOR** Dictionary shortcut
 
 :warning: this works on only **Windows** OS
 
+![videoExplanationOfNaverDicShortcut](https://user-images.githubusercontent.com/30021393/142984192-5542939a-b2dc-4e89-a804-cc16461f5714.gif)
+
 ## Set Up
 ### Set PATH
 Set languageFolder folder address on PATH  

@@ -1,4 +1,4 @@
-# NaverDictionaryBatchFile
+# NaverDictionary Shortcut For Windows
 [한국어 설명](README_KR.md)  
 BatchFile for NaverDictionary shortcut
 Currently we have **ENG-KOR**, **FRA-KOR**, **JPN-KOR** Dictionary shortcut  

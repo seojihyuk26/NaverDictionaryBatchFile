@@ -39,6 +39,8 @@ enter
 ([Language codes based on ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1)) + search query  
 and enter  
 
-for example, if you want to searh a word **"main"** on **ENG-KOR** Naver Dictionary.  
+For example, if you want to searh a word **"main"** on **ENG-KOR** Naver Dictionary.  
+window key + type pw + enter key  
+When powershell opened  
 **en** main + enter  
-then you will see [word "main" on ENG-KOR Naver Dictionary](https://en.dict.naver.com/#/search?range=all&query=main)
+Then you will see [word "main" on ENG-KOR Naver Dictionary](https://en.dict.naver.com/#/search?range=all&query=main)

@@ -4,6 +4,8 @@
 현재 **영-한**, **프-한**, **일-한** 사전 단축키가 존재  
 :warning: 이 단축키는 **윈도우** 환경에서만 동작합니다.
 
+![videoExplanationOfNaverDicShortcut](https://user-images.githubusercontent.com/30021393/142984192-5542939a-b2dc-4e89-a804-cc16461f5714.gif)
+
 ## 기초 설정
 ### PATH 환경변수 설정하기
 다운로드 받은 languageFolder 폴더 위치를 윈도우 PATH 환경설정에 등록한다.  

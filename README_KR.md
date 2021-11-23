@@ -37,7 +37,7 @@ enter
 ([ISO 639-1 에 기초한 언어 코드](https://ko.wikipedia.org/wiki/ISO_639-1_%EC%BD%94%EB%93%9C_%EB%AA%A9%EB%A1%9D)) + 검색하고 싶은 단어 혹은 문장 + enter 키  
 
 예를 들어,**"main"** 이라는 단어를 **영-한** 네이버 사전에서 찾고 싶을 때는  
-window 키 + pw + enter 
-파워쉘 열리면
-**en** main + enter 키
+window 키 + pw + enter  
+파워쉘 열리면  
+**en** main + enter 키  
 그러면 [word "main" on ENG-KOR Naver Dictionary](https://en.dict.naver.com/#/search?range=all&query=main) 사이트가 새 탭으로 켜질 것이다. 

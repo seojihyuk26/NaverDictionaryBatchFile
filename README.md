@@ -13,7 +13,7 @@ Set languageFolder folder adress on PATH
 
 ### How to Use
 #### 1. open the powershell or cmd
-fast way to open powershell or cmd is 
+fast way to open powershell or cmd is  
 window key + type pw  
 enter  
 
